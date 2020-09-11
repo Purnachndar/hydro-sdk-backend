@@ -8,10 +8,10 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/HydroProtocol/hydro-sdk-backend/sdk"
-	"github.com/HydroProtocol/hydro-sdk-backend/sdk/crypto"
-	"github.com/HydroProtocol/hydro-sdk-backend/sdk/types"
-	"github.com/HydroProtocol/hydro-sdk-backend/utils"
+	"github.com/Purnachndar/hydro-sdk-backend/sdk"
+	"github.com/Purnachndar/hydro-sdk-backend/sdk/crypto"
+	"github.com/Purnachndar/hydro-sdk-backend/sdk/types"
+	"github.com/Purnachndar/hydro-sdk-backend/utils"
 	"github.com/shopspring/decimal"
 )
 

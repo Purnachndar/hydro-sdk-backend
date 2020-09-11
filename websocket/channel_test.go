@@ -1,7 +1,7 @@
 package websocket
 
 import (
-	"github.com/HydroProtocol/hydro-sdk-backend/common"
+	"github.com/Purnachndar/hydro-sdk-backend/common"
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/suite"
 	"net"

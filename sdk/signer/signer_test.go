@@ -1,9 +1,9 @@
 package signer
 
 import (
-	"github.com/HydroProtocol/hydro-sdk-backend/sdk/crypto"
-	"github.com/HydroProtocol/hydro-sdk-backend/sdk/types"
-	"github.com/HydroProtocol/hydro-sdk-backend/utils"
+	"github.com/Purnachndar/hydro-sdk-backend/sdk/crypto"
+	"github.com/Purnachndar/hydro-sdk-backend/sdk/types"
+	"github.com/Purnachndar/hydro-sdk-backend/utils"
 	"github.com/stretchr/testify/assert"
 	"math/big"
 	"testing"

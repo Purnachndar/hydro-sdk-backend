@@ -1,7 +1,7 @@
 # Hydro SDK Backend
 
-[![CircleCI](https://circleci.com/gh/HydroProtocol/hydro-sdk-backend.svg?style=svg)](https://circleci.com/gh/HydroProtocol/hydro-sdk-backend)
-[![Go Report Card](https://goreportcard.com/badge/github.com/hydroprotocol/hydro-sdk-backend)](https://goreportcard.com/report/github.com/hydroprotocol/hydro-sdk-backend)
+[![CircleCI](https://circleci.com/gh/Purnachndar/hydro-sdk-backend.svg?style=svg)](https://circleci.com/gh/Purnachndar/hydro-sdk-backend)
+[![Go Report Card](https://goreportcard.com/badge/github.com/purnachndar/hydro-sdk-backend)](https://goreportcard.com/report/github.com/purnachndar/hydro-sdk-backend)
 
 The Hydro SDK is a collection of golang language packages.
 You can use it to build a Dapp application backend based on the Hydro contract quickly. 
@@ -12,7 +12,7 @@ This project cannot be used alone.
 You need to add your own application logic. 
 The following projects are built on top of this SDK.
 
-- [hydro-scaffold-dex](https://github.com/hydroprotocol/hydro-scaffold-dex) 
+- [hydro-scaffold-dex](https://github.com/purnachndar/hydro-scaffold-dex) 
 - [hydro-augur-scaffold](https://github.com/hydroprotocol/hydro-augur-scaffold) (working in progress)
 
 ## Break down to each package

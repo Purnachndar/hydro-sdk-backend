@@ -1,6 +1,6 @@
 package websocket
 
-import "github.com/HydroProtocol/hydro-sdk-backend/common"
+import "github.com/Purnachndar/hydro-sdk-backend/common"
 
 type IChannel interface {
 	GetID() string
